@@ -9,10 +9,15 @@ const Header = () => {
               
               <div className='md:float-right block'>
                   <Link href="/">
-                      <span className='cursor-ponter text-4xl text-white font-bold'></span>
+                      <span className='cursor-ponter text-4xl text-white font-bold'>Pro Blog</span>
                   </Link>
 
                   
+              </div>
+
+              <div className='hidden md:float-left md:contents'>
+                  
+
               </div>
               
 
